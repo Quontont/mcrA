@@ -1,0 +1,373 @@
+09/12/2024 11:30:02 [IO.py:73] Started
+09/12/2024 11:30:02 [Main2.py:140] Started 2:
+09/12/2024 11:30:02 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 637000211 637447310
+09/12/2024 11:30:02 [IO.py:117] exit code = 0
+09/12/2024 11:30:02 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 638341025 638758914
+09/12/2024 11:30:02 [IO.py:117] exit code = 0
+09/12/2024 11:30:02 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2501799907 2501833670
+09/12/2024 11:30:03 [IO.py:117] exit code = 0
+09/12/2024 11:30:03 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2501799907 2501836089
+09/12/2024 11:30:03 [IO.py:117] exit code = 0
+09/12/2024 11:30:03 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2528768184 2529106088
+09/12/2024 11:30:03 [IO.py:117] exit code = 0
+09/12/2024 11:30:03 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2548876509 2548906047
+09/12/2024 11:30:03 [IO.py:117] exit code = 0
+09/12/2024 11:30:03 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2556921601 2558014394
+09/12/2024 11:30:04 [IO.py:117] exit code = 0
+09/12/2024 11:30:04 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2562617175 2563288374
+09/12/2024 11:30:04 [IO.py:117] exit code = 0
+09/12/2024 11:30:04 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2565956895 2567515425
+09/12/2024 11:30:04 [IO.py:117] exit code = 0
+09/12/2024 11:30:04 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2565956922 2567624191
+09/12/2024 11:30:05 [IO.py:117] exit code = 0
+09/12/2024 11:30:05 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2582580838 2583569683
+09/12/2024 11:30:05 [IO.py:117] exit code = 0
+09/12/2024 11:30:05 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2751185625 2752678248
+09/12/2024 11:30:05 [IO.py:117] exit code = 0
+09/12/2024 11:30:05 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823302571 2823304257
+09/12/2024 11:30:06 [IO.py:117] exit code = 0
+09/12/2024 11:30:06 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823308500 2823309946
+09/12/2024 11:30:06 [IO.py:117] exit code = 0
+09/12/2024 11:30:06 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823321286 2823321649
+09/12/2024 11:30:06 [IO.py:117] exit code = 0
+09/12/2024 11:30:06 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823325650 2823327113
+09/12/2024 11:30:06 [IO.py:117] exit code = 0
+09/12/2024 11:30:06 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823327457 2823331979
+09/12/2024 11:30:07 [IO.py:117] exit code = 0
+09/12/2024 11:30:07 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823332118 2823332807
+09/12/2024 11:30:07 [IO.py:117] exit code = 0
+09/12/2024 11:30:07 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823334054 2823335998
+09/12/2024 11:30:08 [IO.py:117] exit code = 0
+09/12/2024 11:30:08 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823337954 2823338113
+09/12/2024 11:30:08 [IO.py:117] exit code = 0
+09/12/2024 11:30:08 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823339794 2823340290
+09/12/2024 11:30:08 [IO.py:117] exit code = 0
+09/12/2024 11:30:08 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823341661 2823345802
+09/12/2024 11:30:08 [IO.py:117] exit code = 0
+09/12/2024 11:30:08 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823348749 2823348755
+09/12/2024 11:30:09 [IO.py:117] exit code = 0
+09/12/2024 11:30:09 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2823350582 2823351983
+09/12/2024 11:30:09 [IO.py:117] exit code = 0
+09/12/2024 11:30:09 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2826193418 2826194609
+09/12/2024 11:30:09 [IO.py:117] exit code = 0
+09/12/2024 11:30:09 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2826193418 2826196014
+09/12/2024 11:30:09 [IO.py:117] exit code = 0
+09/12/2024 11:30:09 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2831341811 2831343808
+09/12/2024 11:30:10 [IO.py:117] exit code = 0
+09/12/2024 11:30:10 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2834802635 2834802654
+09/12/2024 11:30:10 [IO.py:117] exit code = 0
+09/12/2024 11:30:10 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2835130448 2835133440
+09/12/2024 11:30:10 [IO.py:117] exit code = 0
+09/12/2024 11:30:10 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2836710705 2836712076
+09/12/2024 11:30:11 [IO.py:117] exit code = 0
+09/12/2024 11:30:11 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2841096034 2841099083
+09/12/2024 11:30:11 [IO.py:117] exit code = 0
+09/12/2024 11:30:11 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2841649680 2841651670
+09/12/2024 11:30:11 [IO.py:117] exit code = 0
+09/12/2024 11:30:11 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2842454564 2842462560
+09/12/2024 11:30:12 [IO.py:117] exit code = 0
+09/12/2024 11:30:12 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2842733646 2842736660
+09/12/2024 11:30:12 [IO.py:117] exit code = 0
+09/12/2024 11:30:12 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2842733646 2842738134
+09/12/2024 11:30:12 [IO.py:117] exit code = 0
+09/12/2024 11:30:12 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2843472405 2843476591
+09/12/2024 11:30:13 [IO.py:117] exit code = 0
+09/12/2024 11:30:13 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2844496579 2844497202
+09/12/2024 11:30:13 [IO.py:117] exit code = 0
+09/12/2024 11:30:13 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2847461936 2847463355
+09/12/2024 11:30:13 [IO.py:117] exit code = 0
+09/12/2024 11:30:13 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2847469173 2847470071
+09/12/2024 11:30:13 [IO.py:117] exit code = 0
+09/12/2024 11:30:13 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2848581113 2848581121
+09/12/2024 11:30:14 [IO.py:117] exit code = 0
+09/12/2024 11:30:14 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2848581113 2848581129
+09/12/2024 11:30:14 [IO.py:117] exit code = 0
+09/12/2024 11:30:14 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2851759710 2851762963
+09/12/2024 11:30:14 [IO.py:117] exit code = 0
+09/12/2024 11:30:14 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2856178507 2856180661
+09/12/2024 11:30:15 [IO.py:117] exit code = 0
+09/12/2024 11:30:15 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2859117974 2859119331
+09/12/2024 11:30:15 [IO.py:117] exit code = 0
+09/12/2024 11:30:15 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2859120581 2859120703
+09/12/2024 11:30:15 [IO.py:117] exit code = 0
+09/12/2024 11:30:15 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2861109719 2861111270
+09/12/2024 11:30:15 [IO.py:117] exit code = 0
+09/12/2024 11:30:15 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2861192947 2861194738
+09/12/2024 11:30:16 [IO.py:117] exit code = 0
+09/12/2024 11:30:16 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2865357517 2865358407
+09/12/2024 11:30:16 [IO.py:117] exit code = 0
+09/12/2024 11:30:16 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2865462411 2865463847
+09/12/2024 11:30:16 [IO.py:117] exit code = 0
+09/12/2024 11:30:16 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2865633782 2865635109
+09/12/2024 11:30:17 [IO.py:117] exit code = 0
+09/12/2024 11:30:17 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2865638214 2865638429
+09/12/2024 11:30:17 [IO.py:117] exit code = 0
+09/12/2024 11:30:17 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2865650317 2865650513
+09/12/2024 11:30:17 [IO.py:117] exit code = 0
+09/12/2024 11:30:17 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2868008203 2868008282
+09/12/2024 11:30:17 [IO.py:117] exit code = 0
+09/12/2024 11:30:17 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2868010103 2868010225
+09/12/2024 11:30:18 [IO.py:117] exit code = 0
+09/12/2024 11:30:18 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2868012014 2868012059
+09/12/2024 11:30:18 [IO.py:117] exit code = 0
+09/12/2024 11:30:18 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2869653747 2869654811
+09/12/2024 11:30:18 [IO.py:117] exit code = 0
+09/12/2024 11:30:18 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2871078930 2871081405
+09/12/2024 11:30:19 [IO.py:117] exit code = 0
+09/12/2024 11:30:19 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2871715513 2871717357
+09/12/2024 11:30:19 [IO.py:117] exit code = 0
+09/12/2024 11:30:19 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2874341948 2874342746
+09/12/2024 11:30:19 [IO.py:117] exit code = 0
+09/12/2024 11:30:19 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2879177858 2879180934
+09/12/2024 11:30:19 [IO.py:117] exit code = 0
+09/12/2024 11:30:19 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2881435380 2881436276
+09/12/2024 11:30:20 [IO.py:117] exit code = 0
+09/12/2024 11:30:20 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2881684137 2881687759
+09/12/2024 11:30:20 [IO.py:117] exit code = 0
+09/12/2024 11:30:20 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2884366220 2884370250
+09/12/2024 11:30:20 [IO.py:117] exit code = 0
+09/12/2024 11:30:20 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2886965120 2886970838
+09/12/2024 11:30:21 [IO.py:117] exit code = 0
+09/12/2024 11:30:21 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2889849113 2889851394
+09/12/2024 11:30:21 [IO.py:117] exit code = 0
+09/12/2024 11:30:21 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2890520432 2890522786
+09/12/2024 11:30:21 [IO.py:117] exit code = 0
+09/12/2024 11:30:21 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2891509934 2891509986
+09/12/2024 11:30:22 [IO.py:117] exit code = 0
+09/12/2024 11:30:22 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2894796602 2894799132
+09/12/2024 11:30:22 [IO.py:117] exit code = 0
+09/12/2024 11:30:22 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2895374923 2895381553
+09/12/2024 11:30:22 [IO.py:117] exit code = 0
+09/12/2024 11:30:22 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2898678339 2898680101
+09/12/2024 11:30:23 [IO.py:117] exit code = 0
+09/12/2024 11:30:23 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2898691933 2898693910
+09/12/2024 11:30:23 [IO.py:117] exit code = 0
+09/12/2024 11:30:23 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2899946620 2899950614
+09/12/2024 11:30:23 [IO.py:117] exit code = 0
+09/12/2024 11:30:23 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2900557729 2900558819
+09/12/2024 11:30:24 [IO.py:117] exit code = 0
+09/12/2024 11:30:24 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2903187332 2903188096
+09/12/2024 11:30:24 [IO.py:117] exit code = 0
+09/12/2024 11:30:24 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2905979941 2905981640
+09/12/2024 11:30:24 [IO.py:117] exit code = 0
+09/12/2024 11:30:24 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2906695214 2906696885
+09/12/2024 11:30:24 [IO.py:117] exit code = 0
+09/12/2024 11:30:24 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2909600524 2909602477
+09/12/2024 11:30:25 [IO.py:117] exit code = 0
+09/12/2024 11:30:25 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2911757418 2911758769
+09/12/2024 11:30:25 [IO.py:117] exit code = 0
+09/12/2024 11:30:25 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2914145210 2914147231
+09/12/2024 11:30:25 [IO.py:117] exit code = 0
+09/12/2024 11:30:25 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2919346902 2919351989
+09/12/2024 11:30:26 [IO.py:117] exit code = 0
+09/12/2024 11:30:26 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2919352079 2919357090
+09/12/2024 11:30:26 [IO.py:117] exit code = 0
+09/12/2024 11:30:26 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2921909709 2921910259
+09/12/2024 11:30:26 [IO.py:117] exit code = 0
+09/12/2024 11:30:26 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2921914073 2921914622
+09/12/2024 11:30:27 [IO.py:117] exit code = 0
+09/12/2024 11:30:27 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2925326138 2925327307
+09/12/2024 11:30:27 [IO.py:117] exit code = 0
+09/12/2024 11:30:27 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2927445132 2927450115
+09/12/2024 11:30:27 [IO.py:117] exit code = 0
+09/12/2024 11:30:27 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2928084124 2928089836
+09/12/2024 11:30:28 [IO.py:117] exit code = 0
+09/12/2024 11:30:28 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2936437551 2936439151
+09/12/2024 11:30:28 [IO.py:117] exit code = 0
+09/12/2024 11:30:28 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2944698806 2944705727
+09/12/2024 11:30:28 [IO.py:117] exit code = 0
+09/12/2024 11:30:28 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2945135232 2945142004
+09/12/2024 11:30:29 [IO.py:117] exit code = 0
+09/12/2024 11:30:29 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2945158302 2945160681
+09/12/2024 11:30:29 [IO.py:117] exit code = 0
+09/12/2024 11:30:29 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2952103699 2952106846
+09/12/2024 11:30:29 [IO.py:117] exit code = 0
+09/12/2024 11:30:29 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2952560386 2952567051
+09/12/2024 11:30:30 [IO.py:117] exit code = 0
+09/12/2024 11:30:30 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2958249292 2958250773
+09/12/2024 11:30:30 [IO.py:117] exit code = 0
+09/12/2024 11:30:30 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2959146714 2959154199
+09/12/2024 11:30:31 [IO.py:117] exit code = 0
+09/12/2024 11:30:31 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2960217756 2960225244
+09/12/2024 11:30:31 [IO.py:117] exit code = 0
+09/12/2024 11:30:31 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2963070403 2963077896
+09/12/2024 11:30:32 [IO.py:117] exit code = 0
+09/12/2024 11:30:32 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2963109706 2963117217
+09/12/2024 11:30:32 [IO.py:117] exit code = 0
+09/12/2024 11:30:32 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2964292216 2964292839
+09/12/2024 11:30:32 [IO.py:117] exit code = 0
+09/12/2024 11:30:32 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2965149675 2965151007
+09/12/2024 11:30:32 [IO.py:117] exit code = 0
+09/12/2024 11:30:32 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2987979889 2987981499
+09/12/2024 11:30:33 [IO.py:117] exit code = 0
+09/12/2024 11:30:33 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2988892235 2988894503
+09/12/2024 11:30:33 [IO.py:117] exit code = 0
+09/12/2024 11:30:33 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2994770308 2994776400
+09/12/2024 11:30:33 [IO.py:117] exit code = 0
+09/12/2024 11:30:33 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2994898655 2994901463
+09/12/2024 11:30:34 [IO.py:117] exit code = 0
+09/12/2024 11:30:34 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2996670200 2996670405
+09/12/2024 11:30:34 [IO.py:117] exit code = 0
+09/12/2024 11:30:34 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2996846327 2996847003
+09/12/2024 11:30:34 [IO.py:117] exit code = 0
+09/12/2024 11:30:34 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 2999735226 2999737266
+09/12/2024 11:30:35 [IO.py:117] exit code = 0
+09/12/2024 11:30:35 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 3001131783 3001134304
+09/12/2024 11:30:35 [IO.py:117] exit code = 0
+09/12/2024 11:30:35 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 3002567224 3002567493
+09/12/2024 11:30:35 [IO.py:117] exit code = 0
+09/12/2024 11:30:35 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 3003888886 3003894187
+09/12/2024 11:30:36 [IO.py:117] exit code = 0
+09/12/2024 11:30:36 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8001596804 8001599023
+09/12/2024 11:30:36 [IO.py:117] exit code = 0
+09/12/2024 11:30:36 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8001596804 8001599032
+09/12/2024 11:30:36 [IO.py:117] exit code = 0
+09/12/2024 11:30:36 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8003106420 8003113075
+09/12/2024 11:30:36 [IO.py:117] exit code = 0
+09/12/2024 11:30:36 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8003118049 8003124100
+09/12/2024 11:30:37 [IO.py:117] exit code = 0
+09/12/2024 11:30:37 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8003520292 8003520444
+09/12/2024 11:30:37 [IO.py:117] exit code = 0
+09/12/2024 11:30:37 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8008389629 8008395931
+09/12/2024 11:30:37 [IO.py:117] exit code = 0
+09/12/2024 11:30:37 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8008751222 8008758035
+09/12/2024 11:30:38 [IO.py:117] exit code = 0
+09/12/2024 11:30:38 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8008766435 8008767209
+09/12/2024 11:30:38 [IO.py:117] exit code = 0
+09/12/2024 11:30:38 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8012231750 8012233289
+09/12/2024 11:30:38 [IO.py:117] exit code = 0
+09/12/2024 11:30:38 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8018668288 8018668687
+09/12/2024 11:30:39 [IO.py:117] exit code = 0
+09/12/2024 11:30:39 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8022931907 8022936454
+09/12/2024 11:30:39 [IO.py:117] exit code = 0
+09/12/2024 11:30:39 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8025405933 8025406434
+09/12/2024 11:30:39 [IO.py:117] exit code = 0
+09/12/2024 11:30:39 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8030391985 8030394108
+09/12/2024 11:30:40 [IO.py:117] exit code = 0
+09/12/2024 11:30:40 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8034247003 8034249458
+09/12/2024 11:30:40 [IO.py:117] exit code = 0
+09/12/2024 11:30:40 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8034262968 8034265683
+09/12/2024 11:30:40 [IO.py:117] exit code = 0
+09/12/2024 11:30:40 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8034978263 8034983296
+09/12/2024 11:30:41 [IO.py:117] exit code = 0
+09/12/2024 11:30:41 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8034984327 8034987106
+09/12/2024 11:30:41 [IO.py:117] exit code = 0
+09/12/2024 11:30:41 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035128882 8035129801
+09/12/2024 11:30:41 [IO.py:117] exit code = 0
+09/12/2024 11:30:41 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035817612 8035820291
+09/12/2024 11:30:42 [IO.py:117] exit code = 0
+09/12/2024 11:30:42 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035828923 8035830355
+09/12/2024 11:30:42 [IO.py:117] exit code = 0
+09/12/2024 11:30:42 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035831705 8035834217
+09/12/2024 11:30:42 [IO.py:117] exit code = 0
+09/12/2024 11:30:42 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035848065 8035850767
+09/12/2024 11:30:43 [IO.py:117] exit code = 0
+09/12/2024 11:30:43 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8035850857 8035853296
+09/12/2024 11:30:43 [IO.py:117] exit code = 0
+09/12/2024 11:30:43 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8040012070 8040012975
+09/12/2024 11:30:43 [IO.py:117] exit code = 0
+09/12/2024 11:30:43 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8046256400 8046256422
+09/12/2024 11:30:44 [IO.py:117] exit code = 0
+09/12/2024 11:30:44 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8048876446 8048879333
+09/12/2024 11:30:44 [IO.py:117] exit code = 0
+09/12/2024 11:30:44 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8053285510 8053285711
+09/12/2024 11:30:44 [IO.py:117] exit code = 0
+09/12/2024 11:30:44 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8053285510 8053287844
+09/12/2024 11:30:44 [IO.py:117] exit code = 0
+09/12/2024 11:30:44 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8057093502 8057096021
+09/12/2024 11:30:45 [IO.py:117] exit code = 0
+09/12/2024 11:30:45 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8057229375 8057230307
+09/12/2024 11:30:45 [IO.py:117] exit code = 0
+09/12/2024 11:30:45 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8057916884 8057919123
+09/12/2024 11:30:45 [IO.py:117] exit code = 0
+09/12/2024 11:30:45 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8060554801 8060556837
+09/12/2024 11:30:46 [IO.py:117] exit code = 0
+09/12/2024 11:30:46 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8061880861 8061882684
+09/12/2024 11:30:46 [IO.py:117] exit code = 0
+09/12/2024 11:30:46 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8062442455 8062443012
+09/12/2024 11:30:46 [IO.py:117] exit code = 0
+09/12/2024 11:30:46 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8070915887 8070915940
+09/12/2024 11:30:47 [IO.py:117] exit code = 0
+09/12/2024 11:30:47 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8070947832 8070949618
+09/12/2024 11:30:47 [IO.py:117] exit code = 0
+09/12/2024 11:30:47 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8071879968 8071881839
+09/12/2024 11:30:47 [IO.py:117] exit code = 0
+09/12/2024 11:30:47 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8071901805 8071902185
+09/12/2024 11:30:47 [IO.py:117] exit code = 0
+09/12/2024 11:30:47 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8071920892 8071922316
+09/12/2024 11:30:48 [IO.py:117] exit code = 0
+09/12/2024 11:30:48 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8072392584 8072393133
+09/12/2024 11:30:48 [IO.py:117] exit code = 0
+09/12/2024 11:30:48 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8073587727 8073589536
+09/12/2024 11:30:48 [IO.py:117] exit code = 0
+09/12/2024 11:30:48 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8074278546 8074282053
+09/12/2024 11:30:49 [IO.py:117] exit code = 0
+09/12/2024 11:30:49 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8076583817 8076585284
+09/12/2024 11:30:49 [IO.py:117] exit code = 0
+09/12/2024 11:30:49 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8079590229 8079591685
+09/12/2024 11:30:49 [IO.py:117] exit code = 0
+09/12/2024 11:30:49 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8080606371 8080606723
+09/12/2024 11:30:50 [IO.py:117] exit code = 0
+09/12/2024 11:30:50 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8083102910 8083104142
+09/12/2024 11:30:50 [IO.py:117] exit code = 0
+09/12/2024 11:30:50 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8084005985 8084009837
+09/12/2024 11:30:50 [IO.py:117] exit code = 0
+09/12/2024 11:30:50 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8084773619 8084773996
+09/12/2024 11:30:50 [IO.py:117] exit code = 0
+09/12/2024 11:30:50 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085034295 8085034582
+09/12/2024 11:30:51 [IO.py:117] exit code = 0
+09/12/2024 11:30:51 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085036013 8085037513
+09/12/2024 11:30:51 [IO.py:117] exit code = 0
+09/12/2024 11:30:51 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085037725 8085038929
+09/12/2024 11:30:51 [IO.py:117] exit code = 0
+09/12/2024 11:30:51 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085039440 8085040307
+09/12/2024 11:30:52 [IO.py:117] exit code = 0
+09/12/2024 11:30:52 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085283821 8085289516
+09/12/2024 11:30:52 [IO.py:117] exit code = 0
+09/12/2024 11:30:52 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8085659591 8085662128
+09/12/2024 11:30:52 [IO.py:117] exit code = 0
+09/12/2024 11:30:52 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8086264800 8086269090
+09/12/2024 11:30:53 [IO.py:117] exit code = 0
+09/12/2024 11:30:53 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8090323403 8090327449
+09/12/2024 11:30:53 [IO.py:117] exit code = 0
+09/12/2024 11:30:53 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8095359275 8095361714
+09/12/2024 11:30:53 [IO.py:117] exit code = 0
+09/12/2024 11:30:53 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8096791425 8096792961
+09/12/2024 11:30:54 [IO.py:117] exit code = 0
+09/12/2024 11:30:54 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101516298 8101516604
+09/12/2024 11:30:54 [IO.py:117] exit code = 0
+09/12/2024 11:30:54 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101518207 8101519109
+09/12/2024 11:30:54 [IO.py:117] exit code = 0
+09/12/2024 11:30:54 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101520087 8101520728
+09/12/2024 11:30:54 [IO.py:117] exit code = 0
+09/12/2024 11:30:54 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101524226 8101526609
+09/12/2024 11:30:55 [IO.py:117] exit code = 0
+09/12/2024 11:30:55 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101528920 8101530642
+09/12/2024 11:30:55 [IO.py:117] exit code = 0
+09/12/2024 11:30:55 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101530785 8101531332
+09/12/2024 11:30:55 [IO.py:117] exit code = 0
+09/12/2024 11:30:55 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101537132 8101537271
+09/12/2024 11:30:56 [IO.py:117] exit code = 0
+09/12/2024 11:30:56 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101541293 8101542558
+09/12/2024 11:30:56 [IO.py:117] exit code = 0
+09/12/2024 11:30:56 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101545353 8101545718
+09/12/2024 11:30:56 [IO.py:117] exit code = 0
+09/12/2024 11:30:56 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101547255 8101548705
+09/12/2024 11:30:56 [IO.py:117] exit code = 0
+09/12/2024 11:30:56 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101549123 8101549830
+09/12/2024 11:30:57 [IO.py:117] exit code = 0
+09/12/2024 11:30:57 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101551019 8101552558
+09/12/2024 11:30:57 [IO.py:117] exit code = 0
+09/12/2024 11:30:57 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101552992 8101554531
+09/12/2024 11:30:57 [IO.py:117] exit code = 0
+09/12/2024 11:30:57 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101557250 8101557477
+09/12/2024 11:30:58 [IO.py:117] exit code = 0
+09/12/2024 11:30:58 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8101559099 8101559845
+09/12/2024 11:30:58 [IO.py:117] exit code = 0
+09/12/2024 11:30:58 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8102758064 8102760918
+09/12/2024 11:30:58 [IO.py:117] exit code = 0
+09/12/2024 11:30:58 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8102767415 8102770404
+09/12/2024 11:30:59 [IO.py:117] exit code = 0
+09/12/2024 11:30:59 [ExportFasta.py:407] running cmd: /usr/bin/perl -X /webfs/klchu/repos/jgi-img-igb/Services/messageSystem/getGeneFaaFromFile.pl 8103067694 8103067695
+09/12/2024 11:30:59 [IO.py:117] exit code = 0
+09/12/2024 11:30:59 [Main2.py:261] Done

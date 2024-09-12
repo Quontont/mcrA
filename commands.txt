@@ -1,0 +1,2 @@
+# unzipping multiple files
+ls *tar.gz | xargs -I {}  tar xzvf {} -C .

@@ -1,0 +1,16 @@
+{
+   "program" : "Gene Set Fasta Export",
+   "analysis_save_mode" : "save",
+   "down_stream" : 0,
+   "genesets" : [
+      "archISOLATES_allisolates_combined_mcra"
+   ],
+   "jobname" : "archeal_isolates_AA_all",
+   "comment" : "",
+   "up_stream" : 0,
+   "currDateTime" : "2024/09/12 11:40:01",
+   "gene_info_file" : "fasta.faa",
+   "contact_oid" : "110435",
+   "fasta_type" : "amino",
+   "output_filename" : "fasta.faa"
+}

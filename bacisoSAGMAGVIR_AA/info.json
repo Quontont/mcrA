@@ -1,0 +1,16 @@
+{
+   "genesets" : [
+      "BacIso_BacSAGSMAGS_Virus"
+   ],
+   "output_filename" : "fasta.faa",
+   "down_stream" : 0,
+   "program" : "Gene Set Fasta Export",
+   "jobname" : "bacisoSAGMAGVIR_AA",
+   "comment" : "",
+   "analysis_save_mode" : "save",
+   "contact_oid" : "110435",
+   "gene_info_file" : "fasta.faa",
+   "up_stream" : 0,
+   "fasta_type" : "amino",
+   "currDateTime" : "2024/09/12 11:25:37"
+}
