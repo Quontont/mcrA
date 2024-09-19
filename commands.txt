@@ -13,3 +13,4 @@ cat 2k*/fasta.faa > mg_aa
 # cloning/downloading from githun repository
 git clone https://github.com/Quontont/mcrA
 
+cat 2s.csv | cut -d " " -f3
