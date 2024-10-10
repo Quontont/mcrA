@@ -14,3 +14,7 @@ cat 2k*/fasta.faa > mg_aa
 git clone https://github.com/Quontont/mcrA
 
 cat 2s.csv | cut -d " " -f3
+
+#for seperating files into multiple files with lesss objects
+cat 2s.csv | parallel --pipe -N 100 "cat >2s_100/2s_{#}.csv"
+
