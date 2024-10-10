@@ -1,0 +1,2 @@
+Name	# Nucleotide Sequences With Mates	# Nucleotides	# Sequences	% Identical Sites	% Pairwise Identity	Alignment method	Created Date	Description	Free end gaps	Max Sequence Length	Mean Coverage	Min Sequence Length	Modified	Ref Seq Index	Ref Seq Length	Ref Seq Name	Sequence Length	Size	Topology	URN
+no_outgroup alignment 2	0	0	9190	0.4%	63.2%	MAFFT Alignment	Fri Sep 13 17:12:18 MDT 2024	"Alignment of 9,190 sequences"	true	705	7434.089898053753	400	Fri Sep 13 17:12:18 MDT 2024	-1	0		2158	"11,680 KB"	linear	urn:local:.:bwe6-i7cuaid

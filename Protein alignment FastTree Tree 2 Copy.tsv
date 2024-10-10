@@ -1,0 +1,2 @@
+Name	# Nucleotide Sequences With Mates	# Nucleotides	# Sequences	% Identical Sites	% Pairwise Identity	Created Date	Description	Free end gaps	Max Sequence Length	Mean Coverage	Min Sequence Length	Modified	Ref Seq Index	Ref Seq Length	Ref Seq Name	Sequence Length	Size	Topology	Tree builder	URN
+Protein alignment FastTree Tree 2 Copy	0	0	9891	2.0%	63.2%	Fri Sep 13 15:53:13 MDT 2024	"Alignment of 9,891 sequences"	true	705	7936.466708411605	0	Thu Oct 10 13:56:47 MDT 2024	-1	0		4856	"74,494 KB"	linear	FastTree	urn:local:.:1w-ib70tdr
