@@ -1,0 +1,51 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# MERGE DATA FRAMES
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. \## Start 1 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. \## Importing data
+
+-   list1
+
+-   item
+
+    ## Importing data
+
+```{r}
+# Read the three different carts 
+GeneCart <- read.csv(file = "with_md_639_gene_cart_from_jgi.tsv", sep='\t', check.names = FALSE )
+GenomeCart <- read.csv(file = "with_md_639_genome_cart_from_jgi.tsv", sep='\t', check.names = FALSE )
+ScaffoldCart <- read.csv(file = "with_md_639_scaffold_from_jgi_cart.tsv", sep='\t', check.names = FALSE )
+
+```
+
+## Merging Genes and Genome by Genome ID and taxon_oid
+
+```{r}
+#combine gene and genome cart by genome ID and taxon_oid
+isolateGeneGenome<-merge(x=GeneCart, y=GenomeCart, by.x = "Genome ID", by.y="taxon_oid", all = TRUE)
+```
+
+## Merge Scaffold and GeneGenome by Scaffold ID
+
+```{r}
+isolateFinalMD<-merge(x=isolateGeneGenome, y=ScaffoldCart, by="Scaffold ID", all=TRUE)
+```
+
+## Export data frame to CSV
+
+```{r}
+?write.csv
+```
+
+```{r}
+write.csv(isolateFinalMD, file = "isolateFinalMD.csv", sep=",")
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
